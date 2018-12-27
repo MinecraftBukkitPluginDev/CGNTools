@@ -1,0 +1,8 @@
+name: CGNTools
+version: 1.0
+author: Tillthen
+description: Global tools.
+main: cgntools.Main
+commands:
+  setrank:
+    description: Set the rank of a player.
