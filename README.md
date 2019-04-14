@@ -12,4 +12,4 @@ A simple PermissionsEx integrated plugin.
 - PermissionsEx
 
 # Download
-MC 1.11 V1.0 (Mediafire): https://www.mediafire.com/file/whl5nwk1djgfk73/CGNTools.jar/file
+MC 1.11 V1.0 (Mediafire || No PEX): https://www.mediafire.com/file/whl5nwk1djgfk73/CGNTools.jar/file
