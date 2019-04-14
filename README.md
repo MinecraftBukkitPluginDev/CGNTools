@@ -3,7 +3,7 @@ A simple PermissionsEx integrated plugin.
 
 # Abilities
 - Set rank
-- PLayer join message
+- Player join message
 - Player quit message
 - New player welcome message
 - Unknown command message
